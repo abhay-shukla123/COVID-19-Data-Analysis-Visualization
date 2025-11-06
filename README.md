@@ -64,6 +64,21 @@ An interactive Tableau dashboard is used to visualize case trends, severity, and
 ### **Dashboard Preview:**
 ![Dashboard Preview](https://github.com/abhay-shukla123/COVID-19-Data-Analysis-Visualization/blob/main/Covid-19%20Dashboard.jpg)
 
+---
+## 🖼 Visualization Results (Python Charts)
+
+### 1️⃣ Top 10 States with Highest Active COVID-19 Cases
+This bar chart shows the states that recorded the highest number of active cases, indicating regions with the most ongoing infection pressure.
+
+![Top 10 Active Cases](INSERT_ACTIVE_IMAGE_LINK_HERE)
+
+---
+
+### 2️⃣ Top 10 States with Highest COVID-19 Deaths
+This visualization compares death counts across states, reflecting differences in healthcare response and severity of the pandemic.
+
+![Top 10 Death Cases](INSERT_DEATH_IMAGE_LINK_HERE)
+
 
 ## Key Insights
 - Maharashtra, Kerala, Karnataka, and Tamil Nadu recorded the highest active cases.
