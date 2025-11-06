@@ -8,7 +8,7 @@ An interactive Tableau dashboard is used to visualize case trends, severity, and
 
 ---
 
-## 📂 Project Structur
+## 📂 Project Structure
 |-- Covid-19.py # Python EDA Script
 |-- covid_19_india.csv # Case Data
 |-- world_covid.csv # Additional Dataset
