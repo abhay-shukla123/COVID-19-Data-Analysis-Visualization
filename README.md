@@ -70,7 +70,7 @@ An interactive Tableau dashboard is used to visualize case trends, severity, and
 ### 1️⃣ Top 10 States with Highest Active COVID-19 Cases
 This bar chart shows the states that recorded the highest number of active cases, indicating regions with the most ongoing infection pressure.
 
-![Top 10 Active Cases](INSERT_ACTIVE_IMAGE_LINK_HERE)
+![Top 10 Active Cases](https://github.com/abhay-shukla123/COVID-19-Data-Analysis-Visualization/blob/main/Active_Caes_1.png)
 
 ---
 
