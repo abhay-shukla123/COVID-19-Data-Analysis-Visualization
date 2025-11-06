@@ -61,13 +61,10 @@ An interactive Tableau dashboard is used to visualize case trends, severity, and
 
 ## Tableau Dashboard
 
-> **📌 Upload your dashboard screenshot and replace the image link below**
-
 ### **Dashboard Preview:**
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/abhay-shukla123/COVID-19-Data-Analysis-Visualization/blob/main/Covid-19%20Dashboard.jpg)
 
 
---
 ## Key Insights
 - Maharashtra, Kerala, Karnataka, and Tamil Nadu recorded the highest active cases.
 - Recovery rates improved significantly after vaccination rollout.
