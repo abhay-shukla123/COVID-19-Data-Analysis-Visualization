@@ -77,7 +77,7 @@ This bar chart shows the states that recorded the highest number of active cases
 ### 2️⃣ Top 10 States with Highest COVID-19 Deaths
 This visualization compares death counts across states, reflecting differences in healthcare response and severity of the pandemic.
 
-![Top 10 Death Cases](INSERT_DEATH_IMAGE_LINK_HERE)
+![Top 10 Death Cases](https://github.com/abhay-shukla123/COVID-19-Data-Analysis-Visualization/blob/main/Death_Cases_1.png)
 
 
 ## Key Insights
