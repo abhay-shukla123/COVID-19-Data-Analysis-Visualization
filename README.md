@@ -97,5 +97,5 @@ By combining Python, SQL, and Tableau, the analysis presents clear insights that
 ## 👤 Author
 **Abhay Shukla**  
 Data Analyst | Python | SQL | Tableau  
-LinkedIn: *Add your link here*
+LinkedIn:  *https://www.linkedin.com/in/abhay-shukla-997269367*
 
